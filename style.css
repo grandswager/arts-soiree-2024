@@ -99,8 +99,11 @@
 }
 
 .dropdown {
-  position: relative;
+  position: fixed;
   display: inline-block;
+
+  top: 5px;
+  left: 5px;
 }
 
 .dropdown-content {
