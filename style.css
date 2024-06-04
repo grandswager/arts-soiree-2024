@@ -133,6 +133,10 @@
   size: cover;
 }
 
+.footer {
+  background-color: #f6f4f4;
+}
+
 /* Images */
 #statistics-image {
   content: url("images/VillageNight.JPG");
